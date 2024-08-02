@@ -2,7 +2,7 @@
 
 **About**
 
-These projects were undertaken as part of my Master's program in Analytics at Northeastern University, Boston. These project were part of my specialization in Applied Machine Intelligence. 
+These projects were undertaken as part of my Master's program in Analytics at Northeastern University, Boston. They were a key component of my specialization in Applied Machine Intelligence.
 
 **Coursework Details**  
 
