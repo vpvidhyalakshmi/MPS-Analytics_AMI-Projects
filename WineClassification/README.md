@@ -2,25 +2,23 @@
 
 **Dataset Description**
 
-This dataset is in the public domain and was obtained from https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system, U.S. government website. It is made available under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute the data without any restrictions. The dataset can be access at: https://www.kaggle.com/datasets/diyashmi/us-accidents-dec2021
+The 'load_wine' dataset from the 'scikit-learn' library contains chemical analysis data of wines grown in the same region in Italy. It includes 178 samples with 13 features, such as alcohol content and malic acid, used for classification into three different wine categories.
   
 **Project Description**  
-This data mining project focuses on the analysis of the US Accident dataset, aiming to extract valuable insights and patterns from a comprehensive collection of accident reports. The project explores various data mining techniques to uncover trends, risk factors, and actionable information that can contribute to improved safety measures and accident prevention.  
-  
+
+This project utilizes the wine dataset from scikit-learn to train a Gaussian Naive Bayes classifier, predicting wine class labels from chemical features. It evaluates the model's performance using metrics such as accuracy, providing insights into its predictive effectiveness.
+
 **Key Objectives**  
-*Analyze and preprocess the US Accident dataset.  
-*Identify common patterns and trends in accident data.  
-*Implement data mining algorithms to extract meaningful insights.  
-*Develop visualizations to represent findings effectively.  
+
+*Load and Preprocess Data 
+*Train Classification Model
+*Evaluate Model Performance 
+*Provide Insights
   
-**Project Structure**  
-The project is organized into the following sections:
-
-*Data Exploration:* Initial data examination and understanding.  
-*Data Preprocessing:* Data cleaning, handling missing values, and feature engineering.  
-*Data Mining:* Application of various data mining techniques and algorithms.  
-*Results and Insights:* Presentation of findings through visualizations and analysis.  
-
 **Usage**
 
-Feel free to explore my project and use the code as a reference for your data modelling endeavors Please provide appropriate cr
+Feel free to explore our project and use the code as a reference for your coding endeavors. Please provide appropriate credit if you find our work helpful.  
+  
+**License**  
+
+This project is open-source and is available under the MIT License. See the license for details.
