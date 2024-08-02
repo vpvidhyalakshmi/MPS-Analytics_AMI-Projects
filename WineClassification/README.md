@@ -10,9 +10,9 @@ This project utilizes the wine dataset from scikit-learn to train a Gaussian Nai
 
 **Key Objectives**  
 
-*Load and Preprocess Data 
-*Train Classification Model
-*Evaluate Model Performance 
+*Load and Preprocess Data  
+*Train Classification Model  
+*Evaluate Model Performance  
 *Provide Insights
   
 **Usage**
