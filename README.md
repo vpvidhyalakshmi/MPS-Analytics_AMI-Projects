@@ -6,8 +6,8 @@ These projects were undertaken as part of my Master's program in Analytics at No
 
 **Coursework Details**  
 
-*Course Title:* Fundamentals of Artificial Intelligence, Applications of Artificial Intelligence<br>
-*Course Code:* EAI 6000, EAI 6010<br>
+*Course Titles:* Fundamentals of Artificial Intelligence, Applications of Artificial Intelligence<br>
+*Course Codes:* EAI 6000, EAI 6010<br>
 *Institution:* College of Professional Studies, Northeastern University<br>
 *Date:* Jan 2022 - Dec 2023
 
