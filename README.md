@@ -1,4 +1,4 @@
-# MPS-Analytics_AMI-Projects
+# Applied Machine Intelligence Projects
 
 **About**
 
